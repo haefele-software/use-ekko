@@ -1,6 +1,6 @@
 {
   "name": "use-ekko",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "useEkko is a lightweight, 0 dependencies library that aims to solve your simple React state management problems.",
   "main": "src/index.js",
   "scripts": {
